@@ -1,8 +1,3 @@
-import dotenv
-dotenv.load_dotenv()
-token = str(os.getenv("MTEzMjc3OTE5Mjg4MzM2MzkwMA.Gcmqqz.CTbgRoWYnP04KPhRtQ5KapMrdYzWkmu5aRIucc"))
-client.run(token)
-
 import discord
 import os # default module
 from dotenv import load_dotenv
